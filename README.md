@@ -27,9 +27,9 @@ You get access to default [reveal.js][reveal.js] demo
 
 ### Custom Configuration
 
-- Use this image `FROM rawmind/alpine-revealjs:<version>` at the top of your `Dockerfile`. 
-- Overwrite default [reveal.js][reveal.js] `/opt/nginx/www/reveal.js/index.html` file with own.
+- Use this image as base at your dockerfile `FROM rawmind/alpine-revealjs:<version>`. 
 - Add your slides under `/opt/nginx/www/reveal.js/slides` folder.
+- Overwrite default index file with your own `/opt/nginx/www/reveal.js/index.html` .
 
 [alpine-nginx]: https://github.com/rawmind0/alpine-nginx/
 [reveal.js]: https://github.com/hakimel/reveal.js
