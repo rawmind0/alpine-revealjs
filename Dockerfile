@@ -1,4 +1,4 @@
-FROM rawmind/alpine-nginx:1.12.2-0
+FROM rawmind/alpine-nginx:1.14.0-0
 MAINTAINER Raul Sanchez <rawmind@gmail.com>
 
 # Set environment

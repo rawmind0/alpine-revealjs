@@ -1,3 +1,5 @@
+[![](https://images.microbadger.com/badges/image/rawmind/alpine-revealjs.svg)](https://microbadger.com/images/rawmind/alpine-revealjs "Get your own image badge on microbadger.com")
+
 alpine-revealjs
 ===============
 
@@ -11,7 +13,7 @@ docker build -t rawmind/alpine-revealjs:<version> .
 
 ## Versions
 
-- `3.6.0-0` [(Dockerfile)](https://github.com/rawmind0/alpine-revealjs/blob/3.6.0-0/Dockerfile)
+- `3.6.0-1` [(Dockerfile)](https://github.com/rawmind0/alpine-revealjs/blob/3.6.0-1/Dockerfile)
 
 ## Usage
 
